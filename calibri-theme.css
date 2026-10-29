@@ -1,0 +1,16 @@
+.remark-slide-content {
+  font-family: 'Calibri', 'Candara', 'Segoe UI', sans-serif;
+}
+
+/* Apply Calibri to all header levels */
+.remark-slide-content h1, 
+.remark-slide-content h2, 
+.remark-slide-content h3 {
+  font-family: 'Calibri', 'Candara', 'Segoe UI', sans-serif;
+  font-weight: bold;
+}
+
+/* Apply Calibri to code chunks and inline code */
+.remark-code, .remark-inline-code {
+  font-family: 'Calibri', 'Candara', 'Segoe UI', sans-serif !important;
+}
