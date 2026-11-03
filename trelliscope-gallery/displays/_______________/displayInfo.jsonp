@@ -1,0 +1,139 @@
+__loadDisplayInfo__aeb95d52({
+  "name": "Галерея случаев",
+  "description": "Галерея случаев",
+  "tags": [],
+  "keycols": ["university"],
+  "metas": [
+    {
+      "maxnchar": 139,
+      "sortable": true,
+      "filterable": true,
+      "tags": [],
+      "label": "university",
+      "type": "string",
+      "varname": "university"
+    },
+    {
+      "log": false,
+      "locale": true,
+      "digits": 0,
+      "maxnchar": 3,
+      "sortable": true,
+      "filterable": true,
+      "tags": [],
+      "label": "n_vertices",
+      "type": "number",
+      "varname": "n_vertices"
+    },
+    {
+      "log": true,
+      "locale": true,
+      "digits": 0,
+      "maxnchar": 4,
+      "sortable": true,
+      "filterable": true,
+      "tags": [],
+      "label": "n_edges",
+      "type": "number",
+      "varname": "n_edges"
+    },
+    {
+      "log": false,
+      "locale": true,
+      "digits": 3,
+      "maxnchar": 10,
+      "sortable": true,
+      "filterable": true,
+      "tags": [],
+      "label": "density",
+      "type": "number",
+      "varname": "density"
+    },
+    {
+      "log": false,
+      "locale": true,
+      "digits": 0,
+      "maxnchar": 2,
+      "sortable": true,
+      "filterable": true,
+      "tags": [],
+      "label": "n_components",
+      "type": "number",
+      "varname": "n_components"
+    },
+    {
+      "log": false,
+      "locale": true,
+      "digits": 3,
+      "maxnchar": 9,
+      "sortable": true,
+      "filterable": true,
+      "tags": [],
+      "label": "transitivity",
+      "type": "number",
+      "varname": "transitivity"
+    },
+    {
+      "log": false,
+      "locale": true,
+      "digits": 3,
+      "maxnchar": 9,
+      "sortable": true,
+      "filterable": true,
+      "tags": [],
+      "label": "reciprocity",
+      "type": "number",
+      "varname": "reciprocity"
+    },
+    {
+      "log": true,
+      "locale": true,
+      "digits": 0,
+      "maxnchar": 3,
+      "sortable": true,
+      "filterable": true,
+      "tags": [],
+      "label": "largest.component.size",
+      "type": "number",
+      "varname": "largest.component.size"
+    },
+    {
+      "source": {
+        "isLocal": true,
+        "type": "file"
+      },
+      "aspect": 1,
+      "paneltype": "img",
+      "maxnchar": 0,
+      "sortable": false,
+      "filterable": false,
+      "tags": [],
+      "label": "panel",
+      "type": "panel",
+      "varname": "panel"
+    }
+  ],
+  "state": {
+    "layout": {
+      "viewtype": "grid",
+      "sidebarActive": false,
+      "page": 1,
+      "ncol": 3,
+      "type": "layout"
+    },
+    "labels": {
+      "varnames": ["university"],
+      "type": "labels"
+    },
+    "sort": [],
+    "filter": [],
+    "filterView": []
+  },
+  "views": [],
+  "inputs": null,
+  "primarypanel": "panel",
+  "thumbnailurl": "panels/panel/331-img.png",
+  "infoOnLoad": false,
+  "hasCustomInfo": false,
+  "order": 0
+})
